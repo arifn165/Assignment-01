@@ -137,3 +137,16 @@ nav .btn-primary {
   color: white;
   background-color: #76b90a;
 }
+.recent-news{
+  max-width: 1280px;
+  height: 120px;
+  margin: 0px 100px;
+}
+.satellite{
+  display: flex;
+  margin: 24px 100px 24px 100px;
+}
+.setellite-2{
+  display: flex;
+  margin: 24px 100px 24px 100px;
+}
