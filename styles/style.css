@@ -1,0 +1,139 @@
+.work-sans-sample {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 24px 100px;
+}
+nav .btn-primary {
+    font-weight: 500px;
+    font-size: 18px;
+    color: #006A50;
+    width: 116px;
+    height: 52px;
+    border-radius: 8px;
+}
+/*banner start here  */
+.banner {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 100px;
+  max-width: 1280px;
+  height: 560px;
+  border-radius: 24px;
+  background-color: #C6E4D6;
+  padding: 80px 58px;
+}
+.banner-content {
+  width: 622px;
+  height: 326px;
+  padding-top: 117px;
+  padding-bottom: 117px;
+
+}
+.banner-greetings {
+  font-weight: 500px;
+  font-size: 24px;
+  color: lightslategrey;
+}
+.banner-title {
+  font-weight: 700px;
+  font-size: 45px;
+
+}
+.btn-banner {
+  max-width: 270px;
+  height: 56px;
+  background-color: #006A50;
+  border-radius: 8px;
+  font-weight: 600px;
+  font-size: 18px;
+  color: white;
+}
+.banner-img {
+  width: 474.03px;
+  height: 400px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  }
+  /* banner end here */
+/* main Start here */
+.Vision {
+  max-width: 1280px;
+  height: 120px;
+  margin: 0px 100px;
+}
+.section-head{
+  font-weight: 700px;
+  font-size: 40px;
+}
+.description{
+  font-size: 24px;
+  color: #492323;
+}
+/* card style here */
+.cards{
+  display: flex;
+  margin: 100px;
+  gap: 10px;
+}
+.card-1{
+  max-width: 411px;
+  height: 325px;
+  background-color: lightcoral;
+}
+.card-2{
+  max-width: 411px;
+  height: 325px;
+  background-color: aquamarine;
+}
+.card-3{
+  max-width: 411px;
+  height: 325px;
+  background-color: cadetblue;
+}
+.card-head{
+  font-size: 20px;
+  padding: 0px 32px;
+
+}
+.cards-description{
+  font-size: 16px;
+  padding: 0px 32px;
+}
+.cards-img{
+  padding: 32px 32px 0px 32px;
+  width: 64px;
+  height: 64px;
+
+}
+.cards-btn-1{
+  width: 122px;
+  height: 41px;
+  margin: 0px 32px;
+  font-weight: 600px;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(32, 178, 39);
+}
+.cards-btn-2{
+  width: 122px;
+  height: 41px;
+  margin: 0px 32px;
+  font-weight: 600px;
+  font-size: 16px;
+  color: white;
+  background-color: #046e54;
+}
+.cards-btn-3{
+  width: 122px;
+  height: 41px;
+  margin: 0px 32px;
+  font-weight: 600px;
+  font-size: 16px;
+  color: white;
+  background-color: #76b90a;
+}
