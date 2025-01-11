@@ -141,12 +141,81 @@ nav .btn-primary {
   max-width: 1280px;
   height: 120px;
   margin: 0px 100px;
+  padding-bottom: 32px;
+}
+.recent-news h3 {
+  font-size: 40px;
+  font-weight: 700px;
 }
 .satellite{
   display: flex;
-  margin: 24px 100px 24px 100px;
+  margin: 24px 40px 24px 40px;
+  width: 1280px;
+  height: 402px;
+  padding: 48px;
+}
+.recent-news-img{
+  max-width: 408px;
+  max-height: 306px;
+  border-radius: 24px;
+}
+.text{
+  padding-left: 32px;
+  
+}
+.text-head{
+  font-weight: 700px;
+  font-size: 32px;
+}
+.img-jazeera{
+  max-width: 134px;
+  max-height: 40px;
+}
+.satellite-btn{
+  width: 139px;
+  height: 48px;
+  font-size: 18px;
+  color: white;
+  background-color: #046e54;
+  border-radius: 8px;
 }
 .setellite-2{
   display: flex;
   margin: 24px 100px 24px 100px;
+}
+.donate{
+  margin: 80px 100px 80px 100px;
+  
+}
+.donate-head{
+  text-align: center;
+}
+.amount{
+  display: flex;
+  
+}
+.amount-tk{
+  border: 1px solid grey;
+  width: 240px;
+  height: 128px;
+  font-weight: 700px;
+  font-size: 40px;
+  padding: 40px;
+  margin: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+.box{
+  width: 1032px;
+  height: 64px;
+  margin-left: 50px;
+  text-align: center;
+  font-size: 24px;
+}
+.donate-btn{
+  margin: 10px 564.5px 24px 514.5px;
+  width: 151px;
+  height: 56px;
+  background-color: #006A50;
+  color: white;
 }
